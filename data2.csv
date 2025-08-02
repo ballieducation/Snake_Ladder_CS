@@ -1,0 +1,101 @@
+number,title,description,effect,effect_to,trivia_question,trivia_choices,trivia_answer,bonus,penalty
+1,Abacus,The earliest known calculating device.,none,,Which ancient device was used for calculation?,Abacus|Calculator|Tablet|Clock,Abacus,5,-2
+2,Napier's Bones,Early multiplication device.,none,,Who invented Napier’s Bones?,John Napier|Charles Babbage|Alan Turing|Ada Lovelace,John Napier,5,-2
+3,Pascaline,First mechanical calculator.,none,,Which was the first mechanical calculator?,Pascaline|Abacus|ENIAC|Mark I,Pascaline,7,-1
+4,Vacuum Tubes,Key to early computers.,none,,What is a vacuum tube?,Electronic component|Data storage|Software|Input device,Electronic component,3,-2
+5,First Generation Computer,Used vacuum tubes.,none,,First generation computers used?,Vacuum tubes|Microchips|AI|Quantum bits,Vacuum tubes,5,-3
+6,Transistors,Replaced vacuum tubes.,none,,Who invented the transistor?,Bardeen & Brattain|Jobs|Gates|Turing,Bardeen & Brattain,6,-2
+7,Second Generation,Based on transistors.,none,,What was the key innovation in the second generation?,Transistor|Laser|SSD|Optical fiber,Transistor,5,-2
+8,Third Generation,Integrated Circuits introduced.,none,,Third generation computers used what?,Integrated Circuits|Qubits|Vacuum Tubes|Laser,Integrated Circuits,7,-2
+9,Fourth Generation,Microprocessors appeared.,none,,What marked the fourth generation of computers?,Microprocessors|Magnetic tapes|Vacuum tubes|Punched cards,Microprocessors,7,-2
+10,Fifth Generation,AI & parallel processing.,none,,Which technology is key in 5th gen?,IC|AI|Vacuum Tube|Switch,AI,8,-3
+11,Quantum Computer,Computes using quantum bits.,none,,Quantum computers use what fundamental unit?,Qubit|Bit|Byte|Register,Qubit,8,-2
+12,Virus,A malicious software.,none,,What is a computer virus?,A bug|A malicious software|A hardware device|A spreadsheet,A malicious software,5,-3
+13,Integrated Circuit,Enabled modern computers.,none,,Who invented the Integrated Circuit?,Robert Noyce|Bill Gates|Ada Lovelace|Linus Torvalds,Robert Noyce,10,-5
+14,AI Revolution,Rise of intelligent systems.,none,,AI stands for?,Artificial Intelligence|Actual Input|Analog Interface|Auto Integration,Artificial Intelligence,7,-2
+15,Artificial Intelligence,Simulates human intelligence.,none,,What is the main aim of AI?,Simulate human intelligence|Store data|Input/output|Display graphics,Simulate human intelligence,6,-2
+16,Quantum Mechanical,Physics in computation.,none,,What is a qubit?,Classical bit|Quantum bit|Byte|Memory unit,Quantum bit,8,-2
+17,CPU,Central Processing Unit.,none,,CPU stands for?,Central Processing Unit|Central Processor Usage|Computer Power Unit|Central Printed Unit,Central Processing Unit,5,-2
+18,RAM,Random Access Memory.,none,,What does RAM stand for?,Random Access Memory|Rapid Access Memory|Read Access Mode|Random Access Mode,Random Access Memory,5,-2
+19,Storage,Data storage devices.,none,,Which of these is a storage device?,Hard Disk|Monitor|CPU|Mouse,Hard Disk,5,-2
+20,Operating System,Software that manages hardware.,none,,Which is an example of OS?,Windows|Excel|CPU|Chrome,Windows,5,-1
+21,Mouse,Pointing device.,none,,Which is a pointing device?,Mouse|CPU|Printer|Modem,Mouse,4,-2
+22,Keyboard,Input device.,none,,Which device is used to input text?,Keyboard|Monitor|Speaker|Scanner,Keyboard,4,-2
+23,Monitor,Visual output device.,none,,Monitor is a/an?,Output device|Storage device|Input device|Network device,Output device,4,-2
+24,Internet,Network of networks.,none,,What does WWW stand for?,World Wide Web|Wide Wireless Web|Windows Web World|Web Wide Win,World Wide Web,5,-2
+25,Cloud Computing,Services over the internet.,none,,Cloud computing provides?,Online services|Cooking|Farming|Shoemaking,Online services,6,-1
+26,Database,Stores structured data.,none,,Which stores structured data?,Database|Printer|Mouse|Fiber,Database,4,-2
+27,LAN,Local Area Network.,none,,LAN stands for?,Local Area Network|Large Access Network|Long Area Node|Last Access Name,Local Area Network,4,-2
+28,WAN,Wide Area Network.,none,,WAN covers?,Wide area|Small area|One computer|Only storage,Wide area,3,-3
+29,Software,Instructions for computers.,none,,Software is?,Instructions|Hardware|Plastic|Power,Instructions,6,-1
+30,Hardware,Physical components.,none,,Hardware is?,Physical components|Software|Protocol|Firmware,Physical components,4,-2
+31,Printer,Produces paper output.,none,,Printer is used for?,Printing|Cooking|Networking|Playing games,Printing,4,-2
+32,Scanner,Digitizes physical documents.,none,,Scanner converts?,Paper to digital|Sound to light|Code to signal|None,Paper to digital,4,-2
+33,Networking,Connecting computers.,none,,Networking connects?,Computers|Chairs|Desks|Pens,Computers,4,-1
+34,Web Browser,Accesses web pages.,none,,Which is a browser?,Chrome|Excel|Paint|Word,Chrome,4,-1
+35,Compiler,Converts code to machine language.,none,,Compiler is used to?,Convert code|Draw|Print|Browse,Convert code,4,-2
+36,Debugger,Finds bugs in code.,none,,What does a debugger do?,Print|Scan|Find errors|Compile,Find errors,3,-2
+37,Algorithm,Step-by-step instructions.,none,,What is an algorithm?,Step-by-step instructions|Storage device|Game|App,Step-by-step instructions,4,-2
+38,Encryption,Secures information.,none,,Encryption is used for?,Securing information|Drawing|Coding|Printing,Securing information,5,-2
+39,Firewall,Protects network.,none,,Firewall helps to?,Block unauthorized access|Scan files|Store data|Print,Block unauthorized access,5,-2
+40,Malware,Malicious software.,none,,Malware is?,Malicious Software|A program|A device|A protocol,Malicious Software,4,-4
+41,Router,Routes data.,none,,Router is used for?,Routing data|Cooking|Drawing|Printing,Routing data,4,-2
+42,Modem,Modulates and demodulates signals.,none,,Modem helps to?,Connect to internet|Print|Scan|Draw,Connect to internet,4,-1
+43,Ethernet,Wired networking.,none,,Ethernet is used for?,Wired networking|Cooking|Wireless networking|Playing,Wired networking,4,-2
+44,USB,Universal Serial Bus.,none,,USB stands for?,Universal Serial Bus|Ultra Small Board|Under Small Bridge|Unified Signal Base,Universal Serial Bus,5,-2
+45,HDMI,Audio-video interface.,none,,HDMI is used for?,Audio-video|Printing|Text|Input,Audio-video,4,-2
+46,SSD,Solid State Drive.,none,,Which is faster?,HDD|SSD|CD-ROM|Floppy,SSD,7,-2
+47,HDD,Hard Disk Drive.,none,,HDD is a type of?,Storage|Input|Output|Network,Storage,5,-3
+48,Motherboard,Main circuit board.,none,,Which is the main circuit board?,Motherboard|CPU|GPU|RAM,Motherboard,5,-2
+49,Bluetooth,Short-range wireless.,none,,Bluetooth is used for?,Wireless communication|Printing|Cooking|Hacking,Wireless communication,4,-1
+50,Wi-Fi,Wireless networking.,none,,Wi-Fi means?,Wireless Fidelity|Wireless Fiber|Wired File|Wireless Filter,Wireless Fidelity,6,-2
+51,Protocol,Rules for communication.,none,,Protocol defines?,Rules|Hardware|Input|Graphics,Rules,4,-1
+52,Open Source,Free software to edit.,none,,Open source software is?,Free to edit|Only paid|For games only|Not used,Free to edit,4,-2
+53,Closed Source,Proprietary software.,none,,Closed source means?,Proprietary|Free|Virus|Printer,Proprietary,3,-2
+54,API,Application Programming Interface.,none,,API stands for?,Application Programming Interface|Automatic Print Interface|App Print Input|Analog Processing,Application Programming Interface,5,-2
+55,Script,Simple program.,none,,Script is a?,Simple program|Complex hardware|Virus|Monitor,Simple program,5,-1
+56,Spreadsheet,Data table tool.,none,,Which software makes tables?,Spreadsheet|Browser|Firewall|Antivirus,Spreadsheet,5,-2
+57,Presentation,Slide show.,none,,Presentation means?,Slide show|Printing|Drawing|Calculating,Slide show,5,-2
+58,Document,Written file.,none,,Document is a?,Written file|Picture|Virus|Sound,Written file,5,-2
+59,Machine Learning,Algorithms that learn.,none,,ML stands for?,Machine Learning|Manual Language|Macro Logic|Math Level,Machine Learning,5,-2
+60,Deep Learning,Neural networks.,none,,Deep learning uses?,Neural networks|Web|Printer|Excel,Neural networks,6,-2
+61,Neural Network,Inspired by brain.,none,,Neural Network is inspired by?,Brain|CPU|Printer|Monitor,Brain,6,-2
+62,Big Data,Huge datasets.,none,,Big Data means?,Huge datasets|Small storage|Virus|Code,Huge datasets,5,-2
+63,Data Mining,Extracting info.,none,,Data mining is?,Extracting info|Making tables|Drawing|Browsing,Extracting info,5,-2
+64,Data Science,Analysis & insights.,none,,Data science gives?,Analysis & insights|Printing|Hardware|Input,Analysis & insights,7,-2
+65,IoT,Internet of Things.,none,,IoT stands for?,Internet of Things|Input of Technology|Internal output|Internet of Tablets,Internet of Things,5,-2
+66,Smartphone,Mobile computer.,none,,Smartphone is a?,Mobile computer|Monitor|Printer|Network,Mobile computer,4,-2
+67,Tablet,Touchscreen device.,none,,Tablet is a?,Touchscreen device|Router|Printer|Server,Touchscreen device,4,-2
+68,Laptop,Portable computer.,none,,Laptop is a?,Portable computer|Virus|Mouse|Network,Portable computer,4,-2
+69,Desktop,Stationary computer.,none,,Desktop is a?,Stationary computer|Virus|Network|Mouse,Stationary computer,4,-2
+70,Supercomputer,Very powerful computer.,none,,Supercomputer is?,Very powerful computer|Mobile|Monitor|Keyboard,Very powerful computer,8,-2
+71,Mainframe,Large organization computer.,none,,Mainframe is used in?,Large organizations|Small offices|Mobile|School,Large organizations,6,-2
+72,Microprocessor,CPU on a chip.,none,,Microprocessor is?,CPU on a chip|Printer|RAM|Mouse,CPU on a chip,6,-2
+73,C Programming,Old powerful language.,none,,Which is an old programming language?,C|Python|HTML|Excel,C,5,-2
+74,Python,Popular coding language.,none,,Python is a?,Coding language|Device|Monitor|Printer,Coding language,5,-2
+75,Java,Object-oriented language.,none,,Java is a?,Object-oriented language|Virus|Mouse|Monitor,Object-oriented language,5,-2
+76,JavaScript,Web scripting.,none,,JavaScript is used for?,Web scripting|Drawing|Printing|Networking,Web scripting,4,-2
+77,C++,Language with OOP.,none,,C++ is known for?,Object-oriented|Input|Virus|Output,Object-oriented,4,-2
+78,Assembly,Low-level language.,none,,Assembly is a?,Low-level language|App|Web|Printer,Low-level language,4,-2
+79,Binary,Ones and zeros.,none,,Binary means?,Ones and zeros|Letters|Pictures|Music,Ones and zeros,3,-2
+80,Logic Gates,Basic digital circuits.,none,,Logic gates are?,Basic digital circuits|Tables|Networks|Viruses,Basic digital circuits,5,-2
+81,Cache,Fast temporary memory.,none,,Cache is?,Fast temporary memory|Virus|Hardware|Printer,Fast temporary memory,5,-2
+82,Virtual Memory,Extends RAM.,none,,Virtual memory does what?,Extends RAM|Deletes files|Draws|Prints,Extends RAM,4,-1
+83,BIOS,Boots computer.,none,,BIOS stands for?,Basic Input Output System|Best Input Output System|Basic Integrated Output System|Boot Input Output System,Basic Input Output System,5,-2
+84,Firmware,Software on hardware.,none,,Firmware is?,Software on hardware|Table|Virus|Mouse,Software on hardware,5,-2
+85,Power Supply,Provides electricity.,none,,Power supply provides?,Electricity|Water|Input|Output,Electricity,6,-2
+86,VR,Virtual Reality.,none,,VR stands for?,Virtual Reality|Virtual RAM|Virtual Router|Visual Render,Virtual Reality,4,-1
+87,AR,Augmented Reality.,none,,AR stands for?,Augmented Reality|Advanced RAM|Algorithmic Render|Array Register,Augmented Reality,4,-1
+88,3D Printing,Builds objects layer by layer.,none,,3D printing builds?,Objects layer by layer|Code|Virus|Files,Objects layer by layer,5,-2
+89,Quantum Bits,Qubits for quantum computers.,none,,Quantum bit is?,Basic quantum unit|Virus|RAM|ROM,Basic quantum unit,3,-2
+90,Nanotechnology,Tech at nanoscale.,none,,Nanotechnology deals with?,Nanoscale|Virus|Network|Code,Nanoscale,5,-2
+91,Wearable Tech,Tech worn on body.,none,,Wearable tech is?,Worn on body|Printer|Input|Output,Worn on body,5,-2
+92,E-commerce,Buying and selling online.,none,,E-commerce is?,Buying and selling online|Printing|Networking|Drawing,Buying and selling online,5,-2
+93,Mobile Apps,Programs for phones.,none,,Mobile apps are?,Programs for phones|Virus|Power supply|Keyboard,Programs for phones,5,-2
+94,Smart Home,Automated living space.,none,,Smart Home means?,Automated living space|Printer|Network|Router,Automated living space,5,-1
+95,Smart Watch,Wearable device.,none,,Smart Watch is a?,Wearable device|Virus|RAM|ROM,Wearable device,5,-2
+96,Drones,Unmanned flying vehicles.,none,,Drones are?,Unmanned flying vehicles|Printer|App|Router,Unmanned flying vehicles,5,-2
+97,Cryptocurrency,Digital money.,none,,Cryptocurrency is?,Digital money|Virus|Printer|Mouse,Digital money,5,-1
+98,Blockchain,Digital ledger technology.,none,,Blockchain is a?,Digital ledger|Virus|Network|Printer,Digital ledger,5,-2
+99,Digital Signature,Ensures authenticity.,none,,Digital signature does what?,Ensures authenticity|Input|Virus|RAM,Ensures authenticity,5,-1
+100,Windows,Popular OS.,none,,Windows is a?,Popular OS|Input|Printer|Mouse,Popular OS,5,-1
